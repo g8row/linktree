@@ -216,6 +216,7 @@ main {
   text-align: center;
   cursor: pointer;
 }
+
 .main_small_button_list {
   display: flex;
   flex-direction: row;
